@@ -5,3 +5,7 @@ vim.g.autoformat = false
 vim.opt.winbar = "%=%m %f"
 vim.g.lazyvim_picker = "telescope"
 vim.o.autoread = true
+vim.o.tabstop = 4
+vim.o.expandtab = true
+vim.o.softtabstop = 4
+vim.o.shiftwidth = 4
